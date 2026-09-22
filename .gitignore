@@ -20,3 +20,8 @@ ul_sweep_ml_only_stationwise/
 *.csv
 *.json
 *.pkl
+
+# Local files not included in public repository
+additional_exps.ipynb
+nn_exps.ipynb
+pfinalized/
