@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated experiment outputs
+results/
+results_ul_sweep/
+ul_sweep_ml_only_stationwise/
+
+# Data / generated artifacts
+*.csv
+*.json
+*.pkl
